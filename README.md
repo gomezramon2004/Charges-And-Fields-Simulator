@@ -1,4 +1,4 @@
-# Charges-And-Fields-Simulator :zap:
+# Charges And Fields Simulator :zap:
 
 ![](https://img.shields.io/github/license/kapigoku/Charges-And-Fields-Simulator)
 
